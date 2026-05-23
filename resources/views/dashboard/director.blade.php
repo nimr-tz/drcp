@@ -99,7 +99,7 @@
             </div>
         </div>
         <p class="db-kpi-sub mt-1.5">
-            {{ $approvalRate }}% approved @if($totalDecisions > 0)· steady rate@endif
+            {{ $approvalRate }}% approved @if($totalDecisions > 0)· steady rate @endif
         </p>
     </div>
 
